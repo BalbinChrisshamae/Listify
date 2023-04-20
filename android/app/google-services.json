@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075058488320",
+    "project_id": "balbin-midterm-project",
+    "storage_bucket": "balbin-midterm-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075058488320:android:f7fd16428780132a0054e5",
+        "android_client_info": {
+          "package_name": "com.example.mad2_midterm_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075058488320-qf43erj3jf46o6h9bj6c5i3a5jdrla0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPDHoY4A37vTmJKQiWCZKpNoOkc1tkxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075058488320-qf43erj3jf46o6h9bj6c5i3a5jdrla0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
